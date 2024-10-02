@@ -28,7 +28,6 @@ I am always open to collaboration on projects that promote education, technology
 
 
 - 😄 Pronouns: He,him
-- 
 
 ⚡ Thank you for visiting my profile! Let’s connect and work together to make a difference!
 <!---
