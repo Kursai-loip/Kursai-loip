@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Kursai-loip
 
 ## 🌍 About Me
--I am a recent graduate with a Bachelor’s degree in Education and a passionate advocate for integrating technology into education. 🌱 I’m currently training AI and ML skills for Autonomous Driving Systems at **Samburu County AI Hub** and working with **TranscendTech Makerspace - Maralal**, an education technology startup based in Samburu County, Maralal, Kenya. Our mission is to bridge the digital divide among marginalized communities by introducing 21st Century technological literacy tools, including robotics kits, Arduino starter kits, astronomy toolkits, and community makerspaces, while equipping learners with essential skills for the future.
+- 🌱 I’m currently training AI and ML skills for Autonomous Driving Systems at **Samburu County AI Hub** and working with **TranscendTech Makerspace - Maralal**, an education technology startup based in Samburu County, Maralal, Kenya. Our mission is to bridge the digital divide among marginalized communities by introducing 21st Century technological literacy tools, including robotics kits, Arduino starter kits, astronomy toolkits, and community makerspaces, while equipping learners with essential skills for the future.
 
 ## 🛠️ Skills
 - **Programming Languages:** Python, JavaScript
