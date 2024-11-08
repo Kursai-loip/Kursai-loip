@@ -1,8 +1,8 @@
 # Welcome to My Profile!
-- 👋 Hi, I’m @Kursai-loip
+- 👋 Hi, I’m Denzel @Kursai-loip
 
 ## 🌍 About Me
-- 🌱 I’m currently training AI and ML skills for Autonomous Driving Systems at **Samburu County AI Hub** and working with **TranscendTech Makerspace - Maralal**, an education technology startup based in Samburu County, Maralal, Kenya. Our mission is to bridge the digital divide among marginalized communities by introducing 21st Century technological literacy tools, including robotics kits, Arduino starter kits, astronomy toolkits, and community makerspaces, while equipping learners with essential skills for the future.
+- 🌱 I’m currently training on AI and ML skills for Autonomous Driving Systems at **Samburu County AI Hub** and working with **TranscendTech Makerspace - Maralal**, an education technology startup based in Samburu County, Maralal, Kenya. Our mission is to bridge the digital divide among marginalized communities by introducing 21st Century technological literacy tools, including robotics kits, Arduino starter kits, astronomy toolkits, and community makerspaces, while equipping learners with essential skills for the future.
 
 ## 🛠️ Skills
 - **Programming Languages:** Python, JavaScript
